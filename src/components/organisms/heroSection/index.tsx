@@ -38,7 +38,7 @@ export function HeroSection() {
                 <span className="text-2xl">&quot;</span>
                 <div>
                   <p className="mb-2">
-                    Hannah's expertise in securing cloud infrastructure
+                    Hannah&apos;s expertise in securing cloud infrastructure
                     transformed our security posture.
                   </p>
                   <p className="font-medium">Trusted & Highly Recommended</p>
